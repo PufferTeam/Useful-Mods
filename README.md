@@ -3,7 +3,7 @@ Useful mods that can be used for pack making
 
 | Category  | Version |
 | ------------- | ------------- |
-| Recipe Viewing | [1.12](https://github.com/PufferTeam/Useful-Mods/blob/main/Files/Recipe_Viewing/112.md), [1.16](https://github.com/PufferTeam/Useful-Mods/blob/main/Files/Recipe_Viewing/116.md), [1.18] |
+| Recipe Viewing | [1.12](https://github.com/PufferTeam/Useful-Mods/blob/main/Files/Recipe_Viewing/112.md), [1.16](https://github.com/PufferTeam/Useful-Mods/blob/main/Files/Recipe_Viewing/116.md), [1.18](https://github.com/PufferTeam/Useful-Mods/blob/main/Files/Recipe_Viewing/118.md) |
 | QOL/Tweaks | [1.12], [1.16], [1.18] |
 | Vanilla+ | [1.12], [1.16], [1.18] |
 | Bugfixes | [1.12], [1.16], [1.18] |
